@@ -1,5 +1,5 @@
 - Hi, I’m @the-caitlin
-- I'm an aspiring video game designer
+- I'm a video game designer and programmer 
 - I'm looking to collaborate on video game projects,
   (especially if it involves narrative design)
 
